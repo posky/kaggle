@@ -1,5 +1,5 @@
-# kaggle
-kaggle competition
+# Kaggle
+Kaggle competition
 ----
 ### Paddy Doctor: Paddy Disease Classification
 ![image](https://user-images.githubusercontent.com/10412752/188301248-2764c4e7-3fde-4c54-b3b2-23f1aa0fd50e.png)
